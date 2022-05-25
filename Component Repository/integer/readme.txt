@@ -1,0 +1,2 @@
+一个类cp_integer
+num为数值，调用integer_input后会判断并且读入一个正整数

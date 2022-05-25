@@ -1,0 +1,144 @@
+Set 1
+My answer:
+a=0
+b=0
+a+b=0
+a-b=0
+a*b=0
+Right answer:
+Set 2
+My answer:
+a=+3
+b=0
+a+b=+3
+a-b=+3
+a*b=0
+Right answer:
+Set 3
+My answer:
+a=0
+b=+3
+a+b=+3
+a-b=-3
+a*b=0
+Right answer:
+Set 4
+My answer:
+a=+192993
+b=+192993
+a+b=+385986
+a-b=0
+a*b=+37246298049
+Right answer:
+Set 5
+My answer:
+a=-313
+b=+313
+a+b=0
+a-b=-626
+a*b=-97969
+Right answer:
+Set 6
+My answer:
+a=0
+b=-3
+a+b=-3
+a-b=+3
+a*b=0
+Right answer:
+Set 7
+My answer:
+a=+1391832
+b=+193938198
+a+b=+195330030
+a-b=-192546366
+a*b=+269929389998736
+Right answer:
+Set 8
+My answer:
+a=+183817366163
+b=+1928183
+a+b=+183819294346
+a-b=+183815437980
+a*b=+354433520540271829
+Right answer:
+Set 9
+My answer:
+a=-13918387
+b=-19291292883838
+a+b=-19291306802225
+a-b=+19291278965451
+a*b=+268503680087603329306
+Right answer:
+Set 10
+My answer:
+a=-13939138121313
+b=-13993
+a+b=-13939138135306
+a-b=-13939138107320
+a*b=+195050359731532809
+Right answer:
+Set 11
+My answer:
+a=+10381871
+b=-1938873787831
+a+b=-1938863405960
+a-b=+1938884169702
+a*b=-20129137550542811801
+Right answer:
+Set 12
+My answer:
+a=+3918338839121
+b=-139887121
+a+b=+3918198952000
+a-b=+3918478726242
+a*b=-548125139307118860641
+Right answer:
+Set 13
+My answer:
+a=-29388
+b=+39193873
+a+b=+39164485
+a-b=-39223261
+a*b=-1151829539724
+Right answer:
+Set 14
+My answer:
+a=-138138838
+b=+3183
+a+b=-138135655
+a-b=-138142021
+a*b=-439695921354
+Right answer:
+Set 15
+My answer:
+a=+1
+b=+9999999999
+a+b=+10000000000
+a-b=-9999999998
+a*b=+9999999999
+Right answer:
+Set 16
+My answer:
+a=+9
+b=+9999999999
+a+b=+10000000008
+a-b=-9999999990
+a*b=+89999999991
+Right answer:
+Set 17
+My answer:
+a=+100000000
+b=+99999999
+a+b=+199999999
+a-b=+1
+a*b=+9999999900000000
+Right answer:
+Set 18
+My answer:
+a=-100000000
+b=+987654321
+a+b=+887654321
+a-b=-1087654321
+a*b=-98765432100000000
+Right answer:
